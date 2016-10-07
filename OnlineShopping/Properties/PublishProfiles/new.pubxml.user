@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\HARSH\Desktop\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/EncryptDecrypt.dll">
+      <publishTime>12/01/2015 23:14:45</publishTime>
+    </File>
+    <File Include="bin/OnlineShopping.dll">
+      <publishTime>12/02/2015 10:55:45</publishTime>
+    </File>
+    <File Include="HeaderUserControl.ascx">
+      <publishTime>12/02/2015 09:56:39</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>12/02/2015 09:55:38</publishTime>
+    </File>
+    <File Include="images/cartlogo.png">
+      <publishTime>11/22/2015 19:46:06</publishTime>
+    </File>
+    <File Include="LoadCart.aspx">
+      <publishTime>12/02/2015 10:11:08</publishTime>
+    </File>
+    <File Include="Member.aspx">
+      <publishTime>12/02/2015 09:54:43</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>12/02/2015 11:00:31</publishTime>
+    </File>
+    <File Include="StaffHomePage.aspx">
+      <publishTime>12/02/2015 10:09:31</publishTime>
+    </File>
+    <File Include="StaffLogIn.aspx">
+      <publishTime>12/02/2015 09:55:41</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/02/2015 11:00:31</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+Jeans|20
+Tshirt|10
+Tango|15
+Shoes|40
+Shorts|12
+

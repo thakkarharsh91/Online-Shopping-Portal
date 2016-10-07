@@ -1,0 +1,38 @@
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\SendConfirmationService.dll.config
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\SendConfirmationService.dll
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\SendConfirmationService.pdb
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\MigraDoc.DocumentObjectModel.dll
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\MigraDoc.Rendering.dll
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\MigraDoc.RtfRendering.dll
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\PdfSharp.Charting.dll
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\PdfSharp.dll
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\de\MigraDoc.DocumentObjectModel.resources.dll
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\de\MigraDoc.Rendering.resources.dll
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\de\MigraDoc.RtfRendering.resources.dll
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\de\PdfSharp.resources.dll
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\obj\Debug\SendConfirmationService.csprojResolveAssemblyReference.cache
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\obj\Debug\SendConfirmationService.dll
+c:\users\sinn3r\documents\visual studio 2013\Projects\SendConfirmationService\SendConfirmationService\obj\Debug\SendConfirmationService.pdb
+C:\Users\RAZOR\Documents\Visual Studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\SendConfirmationService.dll.config
+C:\Users\RAZOR\Documents\Visual Studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\SendConfirmationService.dll
+C:\Users\RAZOR\Documents\Visual Studio 2013\Projects\SendConfirmationService\SendConfirmationService\bin\SendConfirmationService.pdb
+C:\Users\RAZOR\Documents\Visual Studio 2013\Projects\SendConfirmationService\SendConfirmationService\obj\Debug\SendConfirmationService.dll
+C:\Users\RAZOR\Documents\Visual Studio 2013\Projects\SendConfirmationService\SendConfirmationService\obj\Debug\SendConfirmationService.pdb
+C:\Users\RAZOR\Documents\Visual Studio 2013\Projects\SendConfirmationService\SendConfirmationService\obj\Debug\SendConfirmationService.csprojResolveAssemblyReference.cache
+C:\Users\HARSH\Documents\Visual Studio 2013\Projects\SearchElement\SendConfirmationService\bin\SendConfirmationService.dll.config
+C:\Users\HARSH\Documents\Visual Studio 2013\Projects\SearchElement\SendConfirmationService\bin\SendConfirmationService.dll
+C:\Users\HARSH\Documents\Visual Studio 2013\Projects\SearchElement\SendConfirmationService\bin\SendConfirmationService.pdb
+C:\Users\HARSH\Documents\Visual Studio 2013\Projects\SearchElement\SendConfirmationService\obj\Debug\SendConfirmationService.csprojResolveAssemblyReference.cache
+C:\Users\HARSH\Documents\Visual Studio 2013\Projects\SearchElement\SendConfirmationService\obj\Debug\SendConfirmationService.dll
+C:\Users\HARSH\Documents\Visual Studio 2013\Projects\SearchElement\SendConfirmationService\obj\Debug\SendConfirmationService.pdb
+C:\Users\HARSH\Downloads\SearchElement\SendConfirmationService\bin\SendConfirmationService.dll.config
+C:\Users\HARSH\Downloads\SearchElement\SendConfirmationService\bin\SendConfirmationService.dll
+C:\Users\HARSH\Downloads\SearchElement\SendConfirmationService\bin\SendConfirmationService.pdb
+C:\Users\HARSH\Downloads\SearchElement\SendConfirmationService\obj\Debug\SendConfirmationService.csprojResolveAssemblyReference.cache
+C:\Users\HARSH\Downloads\SearchElement\SendConfirmationService\obj\Debug\SendConfirmationService.dll
+C:\Users\HARSH\Downloads\SearchElement\SendConfirmationService\obj\Debug\SendConfirmationService.pdb
+C:\Users\HARSH\Documents\Visual Studio 2013\Projects\OnlineShopping\SendConfirmationService\bin\SendConfirmationService.dll.config
+C:\Users\HARSH\Documents\Visual Studio 2013\Projects\OnlineShopping\SendConfirmationService\bin\SendConfirmationService.dll
+C:\Users\HARSH\Documents\Visual Studio 2013\Projects\OnlineShopping\SendConfirmationService\bin\SendConfirmationService.pdb
+C:\Users\HARSH\Documents\Visual Studio 2013\Projects\OnlineShopping\SendConfirmationService\obj\Debug\SendConfirmationService.dll
+C:\Users\HARSH\Documents\Visual Studio 2013\Projects\OnlineShopping\SendConfirmationService\obj\Debug\SendConfirmationService.pdb
